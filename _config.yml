@@ -1,11 +1,11 @@
 # Site settings
-author: Hanna Bergland
-title: 
+author: Anna Bergland
+title: Full Throttle 
 header-img: img/home-bg.png
 email: berglandhanna@gmail.com
-copyright_name: Hanna Bergland
+copyright_name: Anna Bergland
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey Through Tibet to Everest
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HannaStrezh
